@@ -1,4 +1,4 @@
 # newproject-demo
 This is my first Git Repository.
 <br>
-Author - Nikhil Reddy C
+Author - Nikhil Reddy C (Stevens)
